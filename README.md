@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @saschaturudija
-- 👀 I’m interested in Wordpress and Salesforce Development
+- 👀 I’m interested Salesforce and Hubspot Development
 - 📫 How to reach me: sascha@cacomedia.de | cacomedia.de
-
-
